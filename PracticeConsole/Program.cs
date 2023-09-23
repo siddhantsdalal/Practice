@@ -20,7 +20,7 @@ namespace HelloWorld
             myNum = 20; // Here we are overwriting the myNum wqhich was 15 by 20.
             Console.WriteLine(myNum);
 
-            const int myNum2 = 30; // Cannot be changed and readonly because of keyword const (Constant)..
+            const int myNum2 = 30; // Cannot be changed and readonly because of keyword const (Constant).
             Console.WriteLine(myNum2);
 
             double floatingNum = 10.5;
